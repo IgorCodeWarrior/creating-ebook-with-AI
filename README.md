@@ -2,6 +2,9 @@
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA.
 
+
+<a href="https://github.com/IgorCodeWarrior/creating-ebook-with-AI/blob/main/Ebook%20container%20windows%20com%20Docker.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
